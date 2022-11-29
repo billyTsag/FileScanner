@@ -8,8 +8,9 @@
     
   </p>
 </div>
-<!-- GETTING STARTED -->
-Getting Started
+
+
+### Getting Started
 
 This is a tool that tests the given `.dll` or `.so` scanner and checks whether it works as expected. The tool will choose to use the `.dll` or the `.so` depending on the OS that triggers the runtime.
 
