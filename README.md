@@ -21,9 +21,9 @@ You either need:
 <h5> Docker</h5>
 -   Have Docker installed on your computer set up with Linux or Windows Containers. 
 
-Or:
 
-<h5> Without Docker</h5>
+
+<h5> Or: Without Docker</h5>
 -   Have node & npm installed on your system.
 ### Installation
 1. Clone the repo
