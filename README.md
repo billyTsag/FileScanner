@@ -20,9 +20,6 @@ The tests can be triggered directly through the project or through an API call t
 You either need:
 <h5> Docker</h5>
 -   Have Docker installed on your computer set up with Linux or Windows Containers. 
-#####
-
-
 
 Or:
 
