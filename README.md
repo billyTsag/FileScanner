@@ -30,7 +30,7 @@ You either need:
 ### Installation
 1. Clone the repo
     ```sh
-    git clone toururu
+    git clone https://github.com/billyTsag/FileScanner.git
     ```
 ###### If you are not using Docker:
 2. Install npm Modules
