@@ -21,4 +21,4 @@ COPY . /app
 RUN npx tsc
 
 # start tests
-CMD ["npm", "run", "start"]
+CMD ["npm", "run", "test"]
