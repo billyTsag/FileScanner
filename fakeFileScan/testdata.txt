@@ -1,0 +1,30 @@
+
+Test 1:
+Path: notavirus.exe
+Source URL: https://totalylegitwebsite.com/freegames/notavirus.exe
+Expected result: MALWARE
+
+Test 2:
+Path: C:\Users\Administrator\Downloads\firefox.exe
+Source URL: https://ferefox.com/downloadfirefox
+Expected result: MALWARE
+
+Test 3:
+Path: C:\Music\Frankie Goes To Hollywood - Welcome To The Pleasuredome.mp3
+Source URL: http://www.mp3download.cn/fght-welcome-to-the-pleasuredome.mp3
+Expected result: UNDETERMINED
+
+Test 4:
+Path: Mike + The Mechanics - Silent Running.mp3.exe
+Source URL: ftp://86.15.61.11
+Expected result: MALWARE
+
+Test 5:
+Path: ChromeSetup.exe
+Source URL: https://www.google.com/chrome/thank-you.html?statcb=1&installdataindex=empty&defaultbrowser=0#"
+Expected result: BENIGN
+
+Test 6:
+Path: /home/user/a18063885e58af9eeb47cabfeaa64b52.jpg
+Source URL: https://i.pinimg.com/736x/a1/80/63/a18063885e58af9eeb47cabfeaa64b52.jpg
+Expected result: BENIGN

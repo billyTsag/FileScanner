@@ -1,0 +1,13 @@
+version: '3.7'
+services:
+    fake-file-scanner-api:
+        build: ./
+        container_name: fake-file-scanner-api
+        hostname: fake-file-scanner-api
+        volumes:
+            - ./reports:/app/reports
+        ports:
+            - "3018:3018"
+volumes: 
+    reports:
+ 
